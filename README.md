@@ -31,8 +31,10 @@ E, por último, na pasta "src" será encontrado o arquivo "Projeto_Regressão_Li
 ## Tecnologias Utilizadas
 
 **Linguagem:** Python 
+
 **Bibliotecas:** Pandas (Para manipulação do Data Frame), Matplotlib (Para plotar os gráficos), Seaborn (Para ajudar nas métricas dos gráficos), Scikit-learn (Para implementar os algoritmos e modelos de aprendizagem de máquina) e Statsmodels (Para calcular o fator de inflação de variância, VIF)
 
 ## Autores
 Márcio Vinícius Moura de Sousa
+
 Vinícius Neves de Almeida
