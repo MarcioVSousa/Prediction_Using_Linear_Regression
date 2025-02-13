@@ -14,7 +14,7 @@ perfil, também filtrando os que eram muito similares.
 
 ## Instalação e Execução
 
-Na pasta "docs" haverá o arquivo "Projeto_Regressão_Linear.ipynb". Abrindo o arquivo, será possível acessar o notebook clicando no link no canto superior esquerdo do arquivo, e assim executar e analisar o código.
+Na pasta "src" haverá o arquivo "Projeto_Regressão_Linear.ipynb". Abrindo o arquivo, será possível acessar o notebook clicando no link no canto superior esquerdo do arquivo, e assim executar e analisar o código.
 
 ![image](https://github.com/user-attachments/assets/dd37c0a7-81b9-4707-8bb5-29f3b8a11d5d)
 
@@ -34,7 +34,5 @@ E, por último, na pasta "src" será encontrado o arquivo "Projeto_Regressão_Li
 
 **Bibliotecas:** Pandas (Para manipulação do Data Frame), Matplotlib (Para plotar os gráficos), Seaborn (Para ajudar nas métricas dos gráficos), Scikit-learn (Para implementar os algoritmos e modelos de aprendizagem de máquina) e Statsmodels (Para calcular o fator de inflação de variância, VIF)
 
-## Autores
+## Autor
 Márcio Vinícius Moura de Sousa
-
-Vinícius Neves de Almeida
