@@ -6,7 +6,7 @@
 Projeto realizado para a avaliação das unidades 9 e 10 da trilha “Ciência De
 Dados”, pela ResTic36.
 
-O nosso principal objetivo foi, através do algoritmo de regressão linear e uma
+O principal objetivo foi, através do algoritmo de regressão linear e uma
 dataset contendo informações sobre os perfis dos influenciadores mais relevantes,
 fazer uma projeção para o desempenho dessas contas num período de 60 dias.
 Focamos em tópicos que seriam importantes para a análise de desempenho desse
