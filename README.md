@@ -1,5 +1,4 @@
-# ProjetoRegressaoLinear
-### IMPLEMENTAÇÃO E ANÁLISE DO ALGORITMO DE REGRESSÃO LINEAR
+### IMPLEMENTAÇÃO E ANÁLISE DO MODELO DE REGRESSÃO LINEAR
 
 ## Descrição do Projeto
 
